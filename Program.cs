@@ -9,6 +9,9 @@ using System;
 using System.Threading.Tasks;
 using System.Timers;
 
+//NOTE: This is not the correct program.cs file. This was created for an even earlier protoype.
+//but the program file for candytrail2 was irrecoverably lost
+
 namespace candytrail2
 {
 	class Program
